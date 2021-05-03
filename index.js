@@ -6,7 +6,7 @@ const db = require('quick.db');
 const { TOKEN, PREFIX, AVATARURL, BOTNAME, } = require(`./config.json`);
 const figlet = require("figlet");
 const client = new Client({ disableMentions: `` , partials: ['MESSAGE', 'CHANNEL', 'REACTION'] });
-client.login('ODM4ODM5ODM3MjMwMTA0NTg2.YJA8eg.92dW_9saMPmYP26zer-9AHa73NQ');
+client.login('ODI5NjU2NjcxMjA1NzIwMTM1.YG7T_A.UrONLn9tP6JFTtHyhe8LheJKRh0');
 client.commands = new Collection();
 client.setMaxListeners(0);
 client.prefix = PREFIX;
