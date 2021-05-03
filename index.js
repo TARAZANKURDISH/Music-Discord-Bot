@@ -142,4 +142,4 @@ function delay(delayInms) {
  });
 }
 
-//Bot coded by DarkMan#7483
+//
